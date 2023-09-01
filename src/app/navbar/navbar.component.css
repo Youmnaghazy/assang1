@@ -1,0 +1,24 @@
+.navbar{
+background-color:#2C3E50;
+font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+font-weight: 500;
+line-height: 1.5;
+font-size: 20px;
+text-transform: uppercase;
+
+}
+.navbar-brand{
+    font-weight: 600;
+    font-size: 30px;
+}
+.navbar-toggler{
+background-color:#1ABC9C;
+
+}
+.navbar-toggler-icon{
+    color: aliceblue;
+    
+}
+.btn{
+    background:#1ABC9C;
+}

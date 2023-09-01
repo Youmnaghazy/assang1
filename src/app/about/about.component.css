@@ -1,0 +1,50 @@
+.about{
+background-color: #1ABC9C;
+padding: 50px 0;
+padding-top: 90px;
+
+}
+.line{
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: white;
+    border-radius: 1rem;
+    border-color: white !important;
+    margin-top: 15px;
+}
+.icona{
+    color: white !important;
+    font-size: 2rem;
+    margin: 30px;
+   
+}
+.lines{
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-weight: 450;
+    padding: 20px;
+}
+
+.card{
+    --bs-card-border-color:none;
+    --bs-card-bg: transparent;
+}  
